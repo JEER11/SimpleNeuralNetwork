@@ -3,6 +3,8 @@ small applied-ML notebook that implements and compares basic losses, builds a 2-
 
 ---
 # Part 1: Loss Functions Implementation and Analysis
+Implement various loss functions and understand their mathematical properties and use cases.
+### Task 1.1: Visualize Loss Function Behavior
 <img width="1216" height="590" alt="image" src="https://github.com/user-attachments/assets/58a9550c-d34e-4e7a-95cd-d7d81bdd743f" />
 
 ---
@@ -17,7 +19,7 @@ Test labels shape: (200, 1)
 <Figure size 1000x400 with 2 Axes><img width="990" height="390" alt="image" src="https://github.com/user-attachments/assets/76b0baff-d926-4cc0-8d92-5d1c595d0995" />
 
 ### Task 2.2: Train and Evaluate the Neural Network
-**Training Neural Network...
+Training Neural Network...
 ========================================
 Epoch 0/1000, Loss: 0.3569, Accuracy: 0.4963
 Epoch 100/1000, Loss: 0.1468, Accuracy: 0.8850
@@ -32,7 +34,7 @@ Epoch 900/1000, Loss: 0.0641, Accuracy: 0.9300
 
 Final Results:
 Training Accuracy: 0.9300
-Test Accuracy: 0.9150**
+Test Accuracy: 0.9150
 
 ### Task 2.3: Visualize Training Progress and Decision Boundary
 <Figure size 1500x1000 with 7 Axes><img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/cd3afcb5-17e4-42f5-9b65-08c084167713" />
