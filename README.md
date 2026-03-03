@@ -1,5 +1,11 @@
-# SimpleNeuralNetwork
-small applied-ML notebook that implements and compares basic losses, builds a 2-layer NumPy neural network, trains/evaluates it on a synthetic binary classification dataset, and visualizes loss surfaces, decision boundaries and hyperparameter effects.
+# Applied Machine Learning
+## Fundamentals: Loss Functions, Neural Networks & Basic ML Framework
+
+### Objectives
+1. Implement and compare different loss functions (MSE, MAE)
+2. Build a simple neural network from scratch using NumPy
+3. Understand forward and backward propagation
+4. Implement basic gradient descent optimization
 
 ---
 # Part 1: Loss Functions Implementation and Analysis
